@@ -21,3 +21,6 @@ A dedicated Skills section lists core frontend technologies such as HTML, CSS, J
 The website layout is designed using modern CSS styling techniques, including flexible layouts, spacing, typography, and hover effects to create a visually appealing and user-friendly interface. The design follows responsive principles to ensure readability and consistency across different screen sizes.
 
 Overall, this project demonstrates a strong understanding of semantic HTML structure, CSS-based layout design, and frontend presentation best practices. The Personal Portfolio Webpage serves as a professional digital profile and effectively showcases the developer’s skills and project experience.
+
+OUTPUT:->
+https://github.com/vedantgaikwadf/PERSONAL-PORTFOLIO-WEBPAGE/issues/1#issue-3774215839
